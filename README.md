@@ -5,4 +5,4 @@
 - `[ctrl + shift + r] '@template_root' -> '@PROJECT_NAME`
 - Change "author" in package.json files
 - Change "profiles" in serverless.yml
-- Run `npm i + lerna bootstrap` in root
+- Run `npm i` + `lerna bootstrap` in root
