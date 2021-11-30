@@ -11,7 +11,8 @@ export const hello: MiddlewareCreator<{ }, Hello, never> = () => {
     return addService(request, {
       getCategories: () => ([
         { name: 'Black' },
-        { name: 'Sweet' }
+        { name: 'Sweet' },
+        { name: 'Cool' }
       ])
     })
   }
