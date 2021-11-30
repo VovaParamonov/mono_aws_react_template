@@ -1,6 +1,6 @@
 {
   "name": "@template_root/root",
-  "author": "Vladimir Paramonov",
+  "author": "Vladimir Paramonov <2000vovaparamonov@gmail.com>",
   "private": true,
   "scripts": {
     "bootstrap": "npm i & lerna bootstrap",
